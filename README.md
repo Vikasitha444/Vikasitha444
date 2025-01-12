@@ -4,12 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C9FD5&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;BICT+Undergraduate;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
+
 ## 🎓 About Me
 
 - 🎯 Software Developer with a passion for creating innovative solutions
 - 📚 Currently pursuing BICT (Hons) at University of Sri Jayawardhanapura (2020-2025)
 - 💡 Experienced in automation and web development
 - 🌱 Always eager to learn and adapt to new technologies
+
 
 ## 🛠️ Technical Skills
 
@@ -26,6 +28,7 @@
 - Web Development
 - Automation
 
+
 ## 💼 Work Experience
 
 **Software Developer** at Sakvithi Ranasinghe English Academy (2021)
@@ -33,16 +36,19 @@
 - Created a comprehensive website for the company
 - Gained hands-on experience in real-world software development
 
+
 ## 🎯 Key Strengths
 - Strong problem-solving abilities
 - Excellent communication skills
 - Effective team player
 - Adaptable to new challenges
 
+
 ## 📫 Connect with Me
 - 📧 Email: pawanvikasitha2001@gmail.com
 - 📱 Phone: 071 3399 389
 - 🏠 Location: Rajagiriya, Sri Lanka
+
 
 ## 📈 GitHub Stats
 
